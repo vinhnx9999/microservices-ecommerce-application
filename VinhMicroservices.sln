@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhMicroservices.ProductService", "VinhMicroservices.ProductService\VinhMicroservices.ProductService.csproj", "{4E947643-5900-D324-4825-BD07567E6651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhMicroservices.AppHost", "VinhMicroservices.AppHost\VinhMicroservices.AppHost.csproj", "{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhMicroservices.ServiceDefaults", "VinhMicroservices.ServiceDefaults\VinhMicroservices.ServiceDefaults.csproj", "{F1E886B5-464F-3DE8-7728-422CEE6B701D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhMicroservices.Model", "VinhMicroservices.Model\VinhMicroservices.Model.csproj", "{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhMicroservices.OrderService", "VinhMicroservices.OrderService\VinhMicroservices.OrderService.csproj", "{8D4F4A48-A96E-20F7-7E02-71EFA716822B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhMicroservices.Client", "VinhMicroservices.Client\VinhMicroservices.Client.csproj", "{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E947643-5900-D324-4825-BD07567E6651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E947643-5900-D324-4825-BD07567E6651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E947643-5900-D324-4825-BD07567E6651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E947643-5900-D324-4825-BD07567E6651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E886B5-464F-3DE8-7728-422CEE6B701D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E886B5-464F-3DE8-7728-422CEE6B701D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E886B5-464F-3DE8-7728-422CEE6B701D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E886B5-464F-3DE8-7728-422CEE6B701D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4F4A48-A96E-20F7-7E02-71EFA716822B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4F4A48-A96E-20F7-7E02-71EFA716822B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4F4A48-A96E-20F7-7E02-71EFA716822B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4F4A48-A96E-20F7-7E02-71EFA716822B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37E70B4-1AA9-40E6-9BF5-F86931E937C7}
+	EndGlobalSection
+EndGlobal

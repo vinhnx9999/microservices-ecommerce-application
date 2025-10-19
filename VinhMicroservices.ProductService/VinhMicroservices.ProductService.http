@@ -1,0 +1,6 @@
+@VinhMicroservices.ProductService_HostAddress = http://localhost:5295
+
+GET {{VinhMicroservices.ProductService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
