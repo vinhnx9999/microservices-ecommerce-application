@@ -1,129 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\",
+  "WorkspaceRootPath": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.productservice\\data\\vinhmicroproductdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\data\\vinhmicroproductdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\data\\vinhmicroorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\data\\vinhmicroorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.productservice\\data\\vinhmicroproductdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\data\\vinhmicroproductdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\data\\vinhmicroorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\data\\vinhmicroorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\shoppingcart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.client\\components\\pages\\shoppingcart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20D0BBD5-20A2-90D6-2F1F-4762F653ECE1}|VinhMicroservices.Client\\VinhMicroservices.Client.csproj|solutionrelative:vinhmicroservices.client\\components\\pages\\shoppingcart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}|VinhMicroservices.Model\\VinhMicroservices.Model.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}|VinhMicroservices.Model\\VinhMicroservices.Model.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}|VinhMicroservices.Model\\VinhMicroservices.Model.csproj|solutionrelative:vinhmicroservices.model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|solutionrelative:vinhmicroservices.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|solutionrelative:vinhmicroservices.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|solutionrelative:vinhmicroservices.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}|VinhMicroservices.Model\\VinhMicroservices.Model.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.model\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}|VinhMicroservices.Model\\VinhMicroservices.Model.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.model\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB3A5D3F-BBF3-4A2A-A55C-A7305DAF76F0}|VinhMicroservices.Model\\VinhMicroservices.Model.csproj|solutionrelative:vinhmicroservices.model\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1E886B5-464F-3DE8-7728-422CEE6B701D}|VinhMicroservices.ServiceDefaults\\VinhMicroservices.ServiceDefaults.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1E886B5-464F-3DE8-7728-422CEE6B701D}|VinhMicroservices.ServiceDefaults\\VinhMicroservices.ServiceDefaults.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1E886B5-464F-3DE8-7728-422CEE6B701D}|VinhMicroservices.ServiceDefaults\\VinhMicroservices.ServiceDefaults.csproj|solutionrelative:vinhmicroservices.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4E947643-5900-D324-4825-BD07567E6651}|VinhMicroservices.ProductService\\VinhMicroservices.ProductService.csproj|solutionrelative:vinhmicroservices.productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.orderservice\\kafka\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.orderservice\\kafka\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D4F4A48-A96E-20F7-7E02-71EFA716822B}|VinhMicroservices.OrderService\\VinhMicroservices.OrderService.csproj|solutionrelative:vinhmicroservices.orderservice\\kafka\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices\\vinhmicroservices.apphost\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|d:\\containerization\\vinh-github\\vinhmicroservices\\vinhmicroservices.apphost\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2AA8F72-2EC7-473C-A0A5-65F51DE2BD69}|VinhMicroservices.AppHost\\VinhMicroservices.AppHost.csproj|solutionrelative:vinhmicroservices.apphost\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -134,15 +134,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -151,393 +151,364 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "VinhMicroservices.ProductService\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T02:57:31.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Program.cs",
-              "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Program.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Program.cs",
-              "RelativeToolTip": "VinhMicroservices.OrderService\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:30:09.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T02:57:31.767Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Program.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Program.cs",
+              "RelativeToolTip": "VinhMicroservices.OrderService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:30:09.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "KafkaConsumer.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Kafka\\KafkaConsumer.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Kafka\\KafkaConsumer.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\Kafka\\KafkaConsumer.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Kafka\\KafkaConsumer.cs",
               "RelativeToolTip": "VinhMicroservices.ProductService\\Kafka\\KafkaConsumer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T03:05:04.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Products.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Products.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Products.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Pages\\Products.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Products.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Products.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\Pages\\Products.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:02:40.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VinhMicroProductDbContext.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
-              "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
-              "RelativeToolTip": "VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAACaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:05:29.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:01:05.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VinhMicroOrderDbContext.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
-              "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
-              "RelativeToolTip": "VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:21:03.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:02:40.645Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Orders.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
-              "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
-              "RelativeToolTip": "VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Title": "VinhMicroProductDbContext.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
+              "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
+              "RelativeToolTip": "VinhMicroservices.ProductService\\Data\\VinhMicroProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:05:29.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "VinhMicroservices.Client\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:10:51.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:01:05.515Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "VinhMicroOrderDbContext.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
+              "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
+              "RelativeToolTip": "VinhMicroservices.OrderService\\Data\\VinhMicroOrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:21:03.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
+              "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
+              "RelativeToolTip": "VinhMicroservices.Client\\Components\\Pages\\Orders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T04:10:51.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Program.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Program.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\Program.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Program.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Program.cs",
               "RelativeToolTip": "VinhMicroservices.ProductService\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAtwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:00:01.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:00:01.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Program.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Program.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Program.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Program.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Program.cs",
               "RelativeToolTip": "VinhMicroservices.Client\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:59:30.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:59:30.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Error.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Error.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Pages\\Error.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Error.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:21:36.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:21:36.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Routes.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Routes.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Routes.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Routes.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Routes.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:01:53.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:01:53.871Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ShoppingCart.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\ShoppingCart.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\ShoppingCart.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Pages\\ShoppingCart.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\ShoppingCart.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\ShoppingCart.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\Pages\\ShoppingCart.razor",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:07:07.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:07:07.028Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\_Imports.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\_Imports.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\_Imports.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:16:31.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:16:31.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Home.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:20:54.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:20:54.465Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "App.razor",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\App.razor",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\App.razor",
               "RelativeDocumentMoniker": "VinhMicroservices.Client\\Components\\App.razor",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Client\\Components\\App.razor",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Client\\Components\\App.razor",
               "RelativeToolTip": "VinhMicroservices.Client\\Components\\App.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-19T04:00:34.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:00:34.191Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\Properties\\launchSettings.json",
               "RelativeToolTip": "VinhMicroservices.ProductService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T03:13:25.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:13:25.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "VinhMicroservices.OrderService\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:20:25.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:20:25.616Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Properties\\launchSettings.json",
               "RelativeToolTip": "VinhMicroservices.OrderService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T04:08:19.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T04:08:19.127Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VinhMicroservices.AppHost\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\Properties\\launchSettings.json",
               "RelativeToolTip": "VinhMicroservices.AppHost\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T03:48:56.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:48:56.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "OrderModel.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Model\\OrderModel.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Model\\OrderModel.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.Model\\OrderModel.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Model\\OrderModel.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Model\\OrderModel.cs",
               "RelativeToolTip": "VinhMicroservices.Model\\OrderModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:05:00.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:05:00.358Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "OrderMessage.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Model\\OrderMessage.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Model\\OrderMessage.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.Model\\OrderMessage.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.Model\\OrderMessage.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.Model\\OrderMessage.cs",
               "RelativeToolTip": "VinhMicroservices.Model\\OrderMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:03:17.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:03:17.46Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Extensions.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ServiceDefaults\\Extensions.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ServiceDefaults\\Extensions.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.ServiceDefaults\\Extensions.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ServiceDefaults\\Extensions.cs",
               "RelativeToolTip": "VinhMicroservices.ServiceDefaults\\Extensions.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T02:56:31.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T02:56:31.55Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\appsettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\appsettings.json",
               "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\appsettings.json",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\appsettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\appsettings.json",
               "RelativeToolTip": "VinhMicroservices.OrderService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T03:26:30.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:26:30.496Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\appsettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\appsettings.json",
               "RelativeDocumentMoniker": "VinhMicroservices.ProductService\\appsettings.json",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.ProductService\\appsettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.ProductService\\appsettings.json",
               "RelativeToolTip": "VinhMicroservices.ProductService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T03:06:19.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:06:19.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\Program.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\Program.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.AppHost\\Program.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\Program.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\Program.cs",
               "RelativeToolTip": "VinhMicroservices.AppHost\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T02:56:23.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T02:56:23.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\appsettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\appsettings.json",
               "RelativeDocumentMoniker": "VinhMicroservices.AppHost\\appsettings.json",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\appsettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\appsettings.json",
               "RelativeToolTip": "VinhMicroservices.AppHost\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T03:19:27.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:19:27.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "KafkaProducer.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\KafkaProducer.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\KafkaProducer.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Kafka\\KafkaProducer.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\KafkaProducer.cs",
               "RelativeToolTip": "VinhMicroservices.OrderService\\Kafka\\KafkaProducer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:23:17.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:23:17.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "IKafkaProducer.cs",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\IKafkaProducer.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\IKafkaProducer.cs",
               "RelativeDocumentMoniker": "VinhMicroservices.OrderService\\Kafka\\IKafkaProducer.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\IKafkaProducer.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.OrderService\\Kafka\\IKafkaProducer.cs",
               "RelativeToolTip": "VinhMicroservices.OrderService\\Kafka\\IKafkaProducer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:25:20.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:25:20.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "kafka.yml",
-              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\kafka.yml",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\kafka.yml",
               "RelativeDocumentMoniker": "VinhMicroservices.AppHost\\kafka.yml",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices\\VinhMicroservices.AppHost\\kafka.yml",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhMicroservices\\VinhMicroservices.AppHost\\kafka.yml",
               "RelativeToolTip": "VinhMicroservices.AppHost\\kafka.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-10-19T03:16:01.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:16:01.086Z"
             }
           ]
         }

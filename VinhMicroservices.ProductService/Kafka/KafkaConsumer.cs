@@ -11,10 +11,7 @@ public class KafkaConsumer(IServiceScopeFactory scopeFactory, IConfiguration con
     protected override Task ExecuteAsync(CancellationToken stoppingToken)
     {
         string topic = _configuration["Kafka:Topic"] ?? "order-topic";
-        return Task.Run(() =>
-        {
-            _ = ConsumeAsync(topic, stoppingToken);
-        }, stoppingToken);
+        return Task.Run(() => ConsumeAsync(topic, stoppingToken), stoppingToken);
     }
 
     public async Task ConsumeAsync(string topic, CancellationToken stoppingToken)
